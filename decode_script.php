@@ -1,5 +1,5 @@
 <?php
-
+/* Alex Madrigal */
 $filename = 'assets/users_table.csv';
 $results = parseCSV($filename);
 
